@@ -1303,6 +1303,7 @@
 		<script src="assets/js/jquery.flot.min.js"></script>
 		<script src="assets/js/jquery.flot.pie.min.js"></script>
 		<script src="assets/js/jquery.flot.resize.min.js"></script>
+        
 
 		<!-- ace scripts -->
 		<script src="assets/js/ace-elements.min.js"></script>
