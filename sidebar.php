@@ -35,7 +35,7 @@
 
 						<ul class="submenu">
 							<li class="">
-								<a href="tables.html">
+								<a href="table.php">
 									<i class="menu-icon fa fa-caret-right"></i>
 									Simple &amp; Dynamic
 								</a>
@@ -43,14 +43,14 @@
 								<b class="arrow"></b>
 							</li>
 
-							<li class="">
+							<!--<li class="">
 								<a href="jqgrid.html">
 									<i class="menu-icon fa fa-caret-right"></i>
 									jqGrid plugin
 								</a>
 
 								<b class="arrow"></b>
-							</li>
+							</li> -->
 						</ul>
 					</li>
 
@@ -66,7 +66,7 @@
 
 						<ul class="submenu">
 							<li class="">
-								<a href="form-elements.html">
+								<a href="form.php">
 									<i class="menu-icon fa fa-caret-right"></i>
 									Form Elements
 								</a>
@@ -74,7 +74,7 @@
 								<b class="arrow"></b>
 							</li>
 
-							<li class="">
+							<!-- <li class="">
 								<a href="form-elements-2.html">
 									<i class="menu-icon fa fa-caret-right"></i>
 									Form Elements 2
@@ -108,7 +108,7 @@
 								</a>
 
 								<b class="arrow"></b>
-							</li>
+							</li> -->
 						</ul>
 					</li>
 
